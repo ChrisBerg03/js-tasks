@@ -10,7 +10,7 @@ for (let reversedNum = 10; reversedNum >= 1; reversedNum--) {
 }
 
 // q.3
-for (let odd = -10; odd <= 20; odd++) {
+for (let odd = 10; odd <= 20; odd++) {
     if (odd % 2 !== 0) {
         console.log(odd)
     }
